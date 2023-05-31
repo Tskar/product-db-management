@@ -27,6 +27,10 @@ You can edit/update your database using "Edit Table" option:
 
 ![edit_tables_img](https://github.com/Tskar/product-db-management/assets/93345914/201fdd5c-a137-4df7-a171-cd2b2a392be9)
 
+You can also view any customer records who have made transactions in the store:
+
+![customer_rec_img](https://github.com/Tskar/product-db-management/assets/93345914/2c07064b-ec51-4e20-9c4a-165b3d9e5314)
+
 
 
 ### Built With
