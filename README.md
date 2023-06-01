@@ -37,6 +37,9 @@ You can also view any customer records who have made transactions in the store:
 
 * [![Java][Java]][Java-url]
 * [![Oracle][Oracle]][Oracle-url]
+* [![Eclipse][Eclipse]][Eclipse-url]
+
+
 <!-- USAGE EXAMPLES -->
 ## Usage
 
@@ -60,4 +63,9 @@ Project Link: [https://github.com/Tskar/product-db-management](https://github.co
 [Oracle]: https://camo.githubusercontent.com/78d0180d1fc02fe9487b88f6e74cfcf3d8a575c319759f45fed678798df7d97c/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4f7261636c6526636f6c6f723d463830303030266c6f676f3d4f7261636c65266c6f676f436f6c6f723d464646464646266c6162656c3d
 [Oracle-url]: https://www.oracle.com/
 
+[Eclipse]: 
+https://camo.githubusercontent.com/67b5b69be4a5a807bc1f147f79a9c302e98ec32d840fce4d0273876b0429463e/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d45636c697073652b49444526636f6c6f723d324332323535266c6f676f3d45636c697073652b494445266c6f676f436f6c6f723d464646464646266c6162656c3d
+
+[Eclipse-url]:
+https://www.eclipse.org/
 
